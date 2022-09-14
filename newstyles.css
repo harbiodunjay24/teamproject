@@ -1,0 +1,56 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.photo-role{
+    display: flex; 
+    font-family: 'PT Serif', serif;
+}
+.job{
+    writing-mode: vertical-rl;
+    font-family: 'Poppins', sans-serif;
+}
+.photo-role img{
+    width: 200px;
+}
+h1{
+    font-family: 'PT Serif', serif;
+}
+.sub-header{
+    font-family: 'Poppins', sans-serif;
+}
+.name{
+    width: 100%;
+    font-family: 'PT Serif', serif;
+}
+
+.middle-img{
+    transform: translateY(20%);
+}
+
+
+
+
+
+
+@media (min-width:990px) {
+    .grid-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 60vw;
+        margin: auto;
+    }
+    header{
+        display: flex;
+        justify-content: space-between;
+        width: 60vw;
+        margin: auto;
+    }
+}
+.abiodun{
+    text-align: end;
+    font-size: large;
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    text-decoration: double underline overline;
+ }
