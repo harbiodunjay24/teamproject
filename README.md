@@ -40,10 +40,10 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo?on github and netlify
+- What was your experience?it was fantastic , i learned a lot
+- What have you learned/improved? css
+- Your wisdom? :)gain more experience on html and css and a beginner in js
 
 ### Built With
 
@@ -59,12 +59,12 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
 
-## Acknowledgements
+## Acknowledgements thanks be to God
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS]
-- [Node.js](https://nodejs.org/)
+- html,css
 - [Marked - a markdown parser](https://github.com/harbiodunjay24
 
 ## Contact
